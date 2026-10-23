@@ -1,4 +1,4 @@
-module github.com/rillmind/raw_api
+module github.com/rillmind/raw-api
 
 go 1.26.5
 

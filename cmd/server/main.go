@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/rillmind/raw_api/db"
-	"github.com/rillmind/raw_api/src/product"
+	"github.com/rillmind/raw-api/db"
+	"github.com/rillmind/raw-api/src/product"
 )
 
 func main() {
